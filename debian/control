@@ -1,0 +1,10 @@
+Source: pm
+Section: utils
+Priority: optional
+Mainrainer: Prokopchuukk<prokopchu.u.k.k@gmail.com>
+Standards-Version: 4.5.1
+Build-Depends: debhelper (>=9)
+
+Package: pm
+Architecture: any
+Description: Simple Hello World program
